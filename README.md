@@ -3,12 +3,12 @@
 ## Installation
 
 
-First Tab:
+First Step:
 ```sh
 $ pod install
 ```
 
-ٍsecond Tab:
+Second Step:
 ```sh
-open app from CodeChallenge.xcworkspace
+Open app from CodeChallenge.xcworkspace
 ```
